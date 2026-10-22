@@ -1,0 +1,3 @@
+:HL["/neuro-talent-platform/_next/static/chunks/0-_84qmwgn_32.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"XqPVd4bj1hCYveoY8KCyt","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
